@@ -73,7 +73,7 @@ const game = () => {
 
     switch (playerChoice) {
       case computerChoice:
-        result = "It is a tie!";
+        result = "It's a tie!";
         break;
       case "rock":
         result =
